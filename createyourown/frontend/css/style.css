@@ -1,0 +1,104 @@
+/* try gradient for background*/
+    body {background-image: linear-gradient(to LEFt, #010105e8,#000000)}
+*{text-align: center;}
+#LogIntext {color: white; padding: 40px;text-align: center;}
+h1 {font-family: Arial, Helvetica, sans-serif; font-size: 36px;text-align:center,}
+h1 {font-weight: 700;height: 30px;}
+/* PLAY WITH COLOR TO MATCH */
+.wrapper { 
+    margin-right:auto;
+    margin-left:auto;
+    width: 600px;
+    padding-top: 50px; 
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 50px;
+    background-color:#1c1c1c;
+    border-radius: 15px 15px 10px 10px;
+    
+}
+button {
+    display: inline-block;
+    background-color: aqua;
+    padding: 20px;
+    width: 438px;
+    color: black;
+    text-align: center;
+    border: 4px double color(black);
+    border-radius: 10px; 
+    font-size: 28px;}
+ #link {color: lightgray; font-size: large;text-align: center;} 
+ p {color: rgb(238, 229, 229); font-size: 26px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+ #button2 {
+    display: inline-block;
+    background-color:black ;
+    padding: 15px;
+    width: 438px;
+    color:white;
+    text-align: center;
+    border: 4px  color(white);
+    border-radius: 10px;
+    font-size: 24px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+/* Button 3 is in footer */
+    #button3 {display: inline-block;
+        background-color:#131616 ;
+        padding: 15px;
+        width: 180px;
+        color:white;
+        text-align: center;
+        border: 4px  color(white);
+        border-radius: 10px;
+        font-size: 32px;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        position: absolute;
+        right:0%;
+        bottom:0;
+    }
+        
+    
+    
+   /* having trouble with English button*/
+        footer{
+            background-color: linear-gradient(to right, #111212,#131616);
+        }
+
+        .footer-section{
+            margin: 30px 0;
+            border-top: 1px solid lightgray;
+            padding-top: 10px;
+            padding-top: 10px;
+          
+
+        }
+
+        .footer-section ul{
+            display: flex;
+            justify-content: center;
+            bottom: 0;
+            
+        }
+            
+        
+        li {
+            display: inline-block;
+            
+
+        }
+
+        li{
+            color:lightgrey;
+            margin: 20px;
+            bottom: 0%;
+            font-size:21.5px;
+            font-family: Arial, Helvetica, sans-serif;
+
+        }
+
+
+
+
+   
+        
+
